@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MicroBudget.Wear" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@color/mb_background</item>
+    </style>
+    <color name="mb_background">#FF0E0A1A</color>
+    <color name="mb_purple">#FF8B5CF6</color>
+</resources>

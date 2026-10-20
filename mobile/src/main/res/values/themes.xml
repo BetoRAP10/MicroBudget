@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MicroBudget" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mb_background</item>
+        <item name="android:statusBarColor">@color/mb_background</item>
+        <item name="android:navigationBarColor">@color/mb_background</item>
+    </style>
+    <color name="mb_background">#FF0E0A1A</color>
+    <color name="mb_purple">#FF8B5CF6</color>
+</resources>
